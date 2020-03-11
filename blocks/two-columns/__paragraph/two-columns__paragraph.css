@@ -1,0 +1,6 @@
+.two-columns__paragraph {
+    margin: 0 0 30px;
+}
+.two-columns__paragraph:last-of-type {
+    margin-bottom: 0;
+}
